@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e28e7f-6d81-4e40-94fd-ffd6348e443d" name="Changes" comment="This is my first code push in Git">
+    <list default="true" id="60e28e7f-6d81-4e40-94fd-ffd6348e443d" name="Changes" comment="This is my second code push in Git">
+      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongotest.py" beforeDir="false" afterPath="$PROJECT_DIR$/mongotest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +48,19 @@
       <option name="project" value="LOCAL" />
       <updated>1676338378178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is my second code push in Git">
+      <created>1676338739267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676338739267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my first code push in Git" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my first code push in Git" />
+    <MESSAGE value="This is my second code push in Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my second code push in Git" />
   </component>
 </project>
